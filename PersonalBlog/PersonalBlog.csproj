@@ -16,4 +16,14 @@
         <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Views\Admin\" />
+      <Folder Include="Views\Auth\" />
+      <Folder Include="Views\Home\" />
+      <Folder Include="Views\Shared\" />
+      <Folder Include="wwwroot\css\" />
+      <Folder Include="wwwroot\images\" />
+      <Folder Include="wwwroot\js\" />
+    </ItemGroup>
+
 </Project>
